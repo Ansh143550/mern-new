@@ -23,5 +23,5 @@ To get the project up and running locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ansh143550/flipkart-mern-master.git
+git clone https://github.com/Ansh143550/mern-new.git
 
